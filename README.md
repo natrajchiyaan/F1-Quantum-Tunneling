@@ -527,10 +527,6 @@ Then open the local Vite URL shown in the terminal.
 
 **Natarajan D**
 
-BSc Data Science Graduate
-
-GitHub: **natrajchiyaan**
-
 ---
 
 # ⭐ Project Purpose
@@ -539,10 +535,5 @@ This project was created as an educational and interactive way to demonstrate on
 
 Instead of presenting quantum tunneling only through equations, the application uses an **F1 racing analogy and animated visualization** to make the concept more intuitive and engaging.
 
----
 
-# 📄 License
 
-This project is intended for educational and portfolio purposes.
-
-You are welcome to study and modify the project for learning and experimentation.
